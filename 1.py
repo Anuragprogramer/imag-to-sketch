@@ -24,3 +24,5 @@ b=scipy.ndimage.filters.gaussian_filter(i,sigma=10)
 r=dodge(b,g)
 
 cv2.imwrite('1.png',r)
+
+File by ATX
